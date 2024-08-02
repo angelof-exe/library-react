@@ -1,8 +1,31 @@
 # React + Vite
+![img](https://raw.githubusercontent.com/angelof-exe/library-react/main/screenshot.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+.
+├── index.html
+├── package.json
+├── package-lock.json
+├── public
+├── README.md
+├── server.js
+├── src
+│   ├── App.jsx
+│   ├── components
+│   │   ├── ConstDrawerList.jsx
+│   │   ├── DrawerList.jsx
+│   │   └── MiniDrawer.jsx
+│   ├── error-page.jsx
+│   ├── main.jsx
+│   ├── routes
+│   │   ├── Add.jsx
+│   │   ├── Homepage.jsx
+│   │   └── styles
+│   │       └── Add.css
+│   └── static
+│       └── images
+│           └── cards
+│               └── contemplative-reptile.jpg
+├── struttura_progetto.txt
+└── vite.config.js
+```
