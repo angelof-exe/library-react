@@ -1,0 +1,28 @@
+.
+├── index.html
+├── package.json
+├── package-lock.json
+├── public
+├── README.md
+├── server.js
+├── src
+│   ├── App.jsx
+│   ├── components
+│   │   ├── ConstDrawerList.jsx
+│   │   ├── DrawerList.jsx
+│   │   └── MiniDrawer.jsx
+│   ├── error-page.jsx
+│   ├── main.jsx
+│   ├── routes
+│   │   ├── Add.jsx
+│   │   ├── Homepage.jsx
+│   │   └── styles
+│   │       └── Add.css
+│   └── static
+│       └── images
+│           └── cards
+│               └── contemplative-reptile.jpg
+├── struttura_progetto.txt
+└── vite.config.js
+
+8 directories, 17 files
